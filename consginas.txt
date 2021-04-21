@@ -1,0 +1,39 @@
+Hola,
+
+aqui les dejo algunos ejercicios para los que quieran practicar estrategia de resolucion de problemas y a programar. Los ejercicios NO van a ser resueltos en AVS ni se cuenta con resolucion. Es algo extra porque me lo han pedido, solo eso.
+
+Ejercicio 1
+
+Cuantos años tengo hoy? 
+
+Se desea un programa que calcule la edad de una persona que ingresa el año de nacimiento y el año actual por teclado. La edad debe ser mostrada por pantalla.
+
+Ejercicio 2
+
+Se desea un programa que transforme una temperatura ingresada en grados Celsius a Fahrenheit.
+
+Ejercicio 3
+
+Dadas 3 variables con valores predefinidos, hacer los pasos necesarios para que quede en variable_1 el menor de los 3 valores, en variable_2 el siguiente y en variable_3 el mayor valor. Mostrar el resultado por pantalla.
+
+Ejercicio 4
+
+Número anterior y posterior. Dado un número que el usuario ingresa por teclado, mostrar el número anterior y posterior al mismo.
+
+
+Ejercicio 5
+
+Hacer un programa que calcule si un año que el usuario ingresa por teclado es bisiesto o no.
+
+Ejercicio 6
+
+Hacer un programa que pida al Usuario que ingrese un número del 1 al 7 e indicarle a qué dia de la semana correspondería.
+
+Ejercicio 7
+
+Hacer un programa que pida al usuario ingresar 10 números y luego diga cual es el mayor y cual es el menor.
+
+
+Ejercicio 8
+
+Hacer un programa donde el usuario ingresa 3 número y se le diga si la suma del primero y el segundo es igual al tercer número ingresado.
